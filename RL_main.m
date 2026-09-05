@@ -4,7 +4,7 @@ clc
 
 %% ================================================================
 %  RL MAIN - Parcel Singulation with PPO
-%  Author: Matteo
+%  Author: Matteo Casazza
 %  Description:
 %  Training and testing script for PPO agent controlling a 5x5 AMS
 %  parcel singulation system.
